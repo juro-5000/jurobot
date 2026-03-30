@@ -1,5 +1,5 @@
 
-# JuroBot - Mineflayer Minecraft Bot ⚠️IF YOU JUST WANT A BOT TO USE TO COLLECT ITEMS USE THIS INSTEAD:https://github.com/juro-5000/jurobot-barebones⚠️
+# JuroBot - Mineflayer Minecraft Bot ⚠️ IF YOU JUST WANT A BOT TO USE TO COLLECT ITEMS USE THIS INSTEAD:https://github.com/juro-5000/jurobot-barebones ⚠️
 
 JuroBot is a feature-rich Minecraft bot built with Node.js and Mineflayer. It features deep integration between Minecraft, Discord, and a MariaDB/MySQL database, including a live web-based dashboard.
 
