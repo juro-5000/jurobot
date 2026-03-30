@@ -1,0 +1,30 @@
+{
+  "host": "your_minecraft_server_ip",
+  "auth": "microsoft",
+  "username": "JuroBot",
+  "email": "your_microsoft_account_email",
+  "version": "1.21.11",
+  "database": {
+    "host": "localhost",
+    "user": "jurobot",
+    "password": "your_database_password",
+    "database": "jurobot"
+  },
+  "discord_webhook": "your_discord_webhook_url_here",
+  "web_port": 3000,
+  "collect_spawn_eggs": false,
+  "collect_shulkers": false,
+  "debug_mode": false,
+  "quotes_enabled": true,
+  "discord": {
+    "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "clientId": "YOUR_DISCORD_CLIENT_ID_HERE",
+    "guildId": "YOUR_DISCORD_SERVER_ID_HERE",
+    "channelId": "YOUR_DISCORD_CHANNEL_ID_HERE",
+    "roles": {
+      "owner": "owner",
+      "admin": "admin",
+      "trusted": "trusted"
+    }
+  }
+}
